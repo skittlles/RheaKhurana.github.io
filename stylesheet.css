@@ -1,0 +1,80 @@
+/*
+selector {
+  property:value;
+ }
+ */
+ 
+ h2{
+ color:Lime;
+ }
+ 
+ h2{
+    font-size:300%;
+ }
+ 
+ ul{
+  color:blue;
+  }
+ 
+em{
+  font-style:italics;
+}
+
+strong{
+color:pink;
+background-color:black;
+}
+ 
+ #allcontent{
+    margin-left:auto;
+	margin-right:auto;
+ }
+  
+ #left{
+    padding: 15px;
+	margin: 10px;
+	width: 150px;
+	float: left;
+ }
+ 
+ #right{
+     padding: 15px;
+	margin: 10px;
+	width: 150px;
+	float: right;
+ }
+ 
+ #middle{
+    width: 150px;
+	margin: 0px 10px 10px 200px 
+ }
+  
+#order{
+   font-family:Verdana,Geneva,sans-serif;
+   }
+   
+ #font{
+     font-family:arial;
+	}
+	
+body{
+  background-image:url(http://cooltwitterbackgrounds.com/wp-content/uploads/2011/10/Sky_Grass_1920x1200_cool_twitter_backgrounds.jpg );
+  }
+  
+ table{
+   color:orange;
+   }
+   
+.scrollbox{
+   height:200px;
+    width:100px;
+	overflow:scroll;
+}
+
+.box {
+  border: 20px groove green;
+  width: 700px;
+  background-color: orange;
+  padding:lem;
+}
+
